@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="key_in_money">please key in your money</string>
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+    <string name="result">Result is</string>
+
+</resources>
